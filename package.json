@@ -1,0 +1,24 @@
+{
+  "name": "seniapuce",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://sailorsystem.github.io/seniapuceweb",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "motion": "^12.9.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "gh-pages": "^6.3.0",
+    "vite": "^6.3.3"
+  }
+}
