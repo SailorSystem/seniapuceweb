@@ -1,0 +1,25 @@
+Saludos Omar,
+
+Por medio de la presente, te solicito realizar de manera prioritaria una serie de modificaciones estructurales en la página web del proyecto de enseñanza de lenguaje de señas. Es de suma importancia aplicar estos cambios a la brevedad para reflejar correctamente las responsabilidades del equipo y, sobre todo, cumplir de manera estricta con las normativas de derechos de autor y licencias de software libre.
+
+A continuación, detallo los cambios exactos que deben implementarse:
+
+1. Modificaciones en el menú "Sobre el Proyecto"
+
+Coordinación: Cambiar el título de "Coordinación General" por "Coordinación Técnica" y asignar a Francisco Rodríguez.
+Tutoría: En la descripción de todos los equipos de desarrollo, se debe añadir explícitamente: "Docente Tutor: Francisco Rodríguez".
+Educación: Añadir el cargo de "Coordinación Carrera Ciencias de Educación" y asignar a Querubín Flores.
+Repositorios de GitHub y Acceso Abierto: Debes colocar de forma visible los enlaces a los repositorios de GitHub, indicando claramente mediante un texto que este es un proyecto abierto para uso de todo el mundo.
+Atribución de Derechos de Autor (Crítico): Es indispensable crear una sección en donde se coloque toda la información de derechos de autor correspondiente a las librerías o código libre que usaron los estudiantes. Ellos ya tienen la instrucción de enviar las fuentes y declaraciones al grupo de WhatsApp. Este punto es serio y no puede ser omitido.
+2. Modificaciones en el menú "Créditos"
+
+Eliminación de personal: Tal como se evidencia en la captura actual de la web en el archivo image_2b063c.png, debes eliminar a Susana Masapanta tanto de la sección de "Créditos" como de la sección "Sobre el proyecto".
+Actualización de Coordinación: La información en esta sección debe quedar estructurada exactamente de la siguiente manera:
+Francisco Rodríguez – Coordinación del Proyecto (Proyecto Innova Tech CONECTA 2 PUCE 2026)
+Querubín Flores – Coordinación del Proyecto (Proyecto EDUCA PUCE FE Y ALEGRÍA)
+3. Modificaciones en el menú "Contactos"
+
+Por favor, actualiza mis datos de contacto directo de la siguiente manera:
+
+Correo: frodriguez@puce.edu.ec
+Teléfono: 2991700 ext. 1213

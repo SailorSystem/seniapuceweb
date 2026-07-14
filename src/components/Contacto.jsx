@@ -18,11 +18,18 @@ export default function Contacto() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <p>
-            ¿Tienes preguntas, sugerencias o quieres colaborar con el proyecto?
-            Escríbenos a <a href="mailto:[correo]">[correo]</a> o visita la
-            Dirección de Vinculación con la Comunidad de la PUCE en{' '}
-            <a href="[enlace]" target="_blank" rel="noopener noreferrer">[enlace]</a>.
+          <div className="contacto-card">
+            <div className="contacto-item">
+              <span className="contacto-icon">📧</span>
+              <a href="mailto:frodriguez@puce.edu.ec">frodriguez@puce.edu.ec</a>
+            </div>
+            <div className="contacto-item">
+              <span className="contacto-icon">📞</span>
+              <span>2991700 ext. 1213</span>
+            </div>
+          </div>
+          <p className="contacto-extra">
+            O visita la Dirección de Vinculación con la Comunidad de la PUCE.
           </p>
         </motion.div>
       </div>

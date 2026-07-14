@@ -5,13 +5,13 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-inner">
         <div className="footer-logos">
-          <img src="/seniapuceweb/images/logo-puce.jpg" alt="PUCE" className="footer-logo" />
+          <img src="/seniapuceweb/images/logo-puce.png" alt="PUCE" className="footer-logo" />
         </div>
         <div className="footer-info">
           <p>Pontificia Universidad Católica del Ecuador</p>
           <p>Dirección de Vinculación con la Comunidad</p>
           <p>
-            <a href="mailto:[correo]">[correo]</a> |{' '}
+            <a href="mailto:[correo]">[frodriguez@puce.edu.ec]</a> |{' '}
             <a href="[enlace]" target="_blank" rel="noopener noreferrer">Vinculación PUCE</a>
           </p>
         </div>

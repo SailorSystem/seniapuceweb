@@ -4,10 +4,21 @@ export default function Hero() {
   return (
     <section id="inicio" className="hero">
       <div className="hero-overlay" />
+      <div className="hero-shapes">
+        <div className="hero-shape" />
+        <div className="hero-shape" />
+        <div className="hero-shape" />
+      </div>
+      <div className="hero-hands">
+        <span className="hero-hand">🤟</span>
+        <span className="hero-hand">👋</span>
+        <span className="hero-hand">✊</span>
+        <span className="hero-hand">🖐️</span>
+      </div>
       <div className="hero-content">
         <BlurText
           text="Rompiendo barreras de comunicación con la comunidad Sorda"
-          delay={100}
+          delay={80}
           direction="top"
           className="hero-title"
         />

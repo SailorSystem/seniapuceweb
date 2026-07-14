@@ -4,15 +4,15 @@ const cards = [
   {
     icon: '🔤',
     title: 'Traductor Voz → Señas',
-    desc: 'Convierte texto o voz en lengua de señas de forma instantánea.',
-    link: 'https://vinculacion-traductor-de-se-as.onrender.com/',
-    label: 'Ir al traductor',
+    desc: 'Convierte texto o voz en lengua de señas al instante. Incluye suite de juegos educativos.',
+    link: 'https://sailorsystem.github.io/ar_mirror_web/',
+    label: 'Ir a AR Mirror Web',
   },
   {
     icon: '🤟',
     title: 'Traductor Señas → Voz',
     desc: 'Convierte lengua de señas en texto o voz para facilitar la comunicación.',
-    link: 'https://sailorsystem.github.io/ar_mirror_web/',
+    link: 'https://vinculacion-traductor-de-se-as.onrender.com/',
     label: 'Ir al traductor',
   },
   {

@@ -4,15 +4,15 @@ import BlurText from './BlurText'
 const translators = [
   {
     title: 'Voz / Texto → Lengua de Señas',
-    desc: 'Este traductor convierte palabras habladas o escritas en lengua de señas, mostrando el movimiento mediante un avatar o video. Es ideal para que una persona oyente se comunique con una persona Sorda sin necesidad de conocer previamente el lenguaje de señas.',
-    req: 'Navegador compatible, conexión a internet, micrófono si aplica.',
-    link: 'https://vinculacion-traductor-de-se-as.onrender.com/',
+    desc: 'Este traductor convierte palabras habladas o escritas en lengua de señas usando realidad aumentada. Incluye también una suite de juegos interactivos para aprender señas de forma divertida.',
+    req: 'Navegador compatible, conexión a internet, cámara para realidad aumentada.',
+    link: 'https://sailorsystem.github.io/ar_mirror_web/',
   },
   {
     title: 'Lengua de Señas → Voz / Texto',
     desc: 'Este traductor reconoce las señas realizadas frente a la cámara y las convierte en texto o voz, permitiendo que una persona Sorda se comunique con quienes no conocen la lengua de señas.',
     req: 'Cámara web, navegador compatible, conexión a internet.',
-    link: 'https://sailorsystem.github.io/ar_mirror_web/',
+    link: 'https://vinculacion-traductor-de-se-as.onrender.com/',
   },
 ]
 

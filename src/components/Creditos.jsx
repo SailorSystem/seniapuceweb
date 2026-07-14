@@ -19,28 +19,15 @@ export default function Creditos() {
           transition={{ duration: 0.6 }}
         >
           <div className="creditos-block">
-            <h3>Desarrollado por</h3>
-            <p><strong>Estudiantes de Ingeniería:</strong></p>
-            <ul>
-              <li>[Nombre 1]</li>
-              <li>[Nombre 2]</li>
-            </ul>
-            <p><strong>Estudiantes de Educación de Sordos:</strong></p>
-            <ul>
-              <li>[Nombre 1]</li>
-              <li>[Nombre 2]</li>
-            </ul>
-          </div>
-
-          <div className="creditos-block">
-            <h3>Docentes tutores</h3>
-            <p>[Nombre del/los tutor(es) y su facultad]</p>
+            <h3>Coordinación del Proyecto</h3>
+            <p>Francisco Rodríguez – Coordinación del Proyecto (Proyecto Innova Tech CONECTA 2 PUCE 2026)</p>
+            <p>Querubín Flores – Coordinación del Proyecto (Proyecto EDUCA PUCE FE Y ALEGRÍA)</p>
           </div>
 
           <div className="creditos-block">
             <h3>Con el respaldo institucional de</h3>
             <div className="creditos-logos">
-              <img src="/seniapuceweb/images/logo-puce.jpg" alt="PUCE" className="creditos-logo" />
+              <img src="/seniapuceweb/images/logo-puce.png" alt="PUCE" className="creditos-logo" />
               <p>Pontificia Universidad Católica del Ecuador (PUCE)</p>
             </div>
           </div>
@@ -48,10 +35,6 @@ export default function Creditos() {
           <div className="creditos-block">
             <h3>Coordinación y vinculación</h3>
             <p>Dirección de Vinculación con la Comunidad – PUCE</p>
-            <p className="creditos-meta">
-              Proyecto desarrollado en el marco de [nombre de la materia, proyecto integrador
-              o convocatoria, si aplica], [año].
-            </p>
           </div>
         </motion.div>
       </div>

@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="navbar">
       <div className="navbar-inner">
         <a href="#inicio" className="navbar-brand">
-          <img src="/seniapuceweb/images/logo-puce.jpg" alt="PUCE" className="navbar-logo" />
+          <img src="/seniapuceweb/images/logo-puce.png" alt="PUCE" className="navbar-logo" />
           <span className="navbar-title">SeñaPUCE</span>
         </a>
 
@@ -25,9 +25,9 @@ export default function Navbar() {
           <span className={`hamburger ${open ? 'open' : ''}`} />
         </button>
 
-        <nav className={`navbar-nav ${open ? 'visible' : ''}`}>
+        <nav className="navbar-nav">
           {links.map(l => (
-            <a key={l.href} href={l.href} className="navbar-link" onClick={() => setOpen(false)}>
+            <a key={l.href} href={l.href} className="navbar-link">
               {l.label}
             </a>
           ))}
