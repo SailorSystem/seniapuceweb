@@ -12,3 +12,52 @@ https://appvocabulario.netlify.app/
 
 Entorno de juegos y traduaccion de voz a señas y de gestos a texto:
 https://sailorsystem.github.io/ar_mirror_web/
+
+
+
+
+REPOSITORIOS
+Repositorio público:
+https://github.com/Vinculacion-2026/traductor-lengua-senas
+
+Librerías/servicios de terceros usados:
+- MediaPipe Tasks Vision / Google AI Edge: detección de manos, gestos y rostro. Licencia Apache 2.0. https://github.com/google-ai-edge/mediapipe
+- Render: despliegue temporal de la aplicación. https://render.com/
+
+
+aprendizaje niños 
+https://github.com/Vinculacion-2026/app-vocabulario-visual
+
+
+Mate señas 
+https://github.com/Vinculacion-2026/app-matematicas-gamificada
+
+
+App niños 
+Frontend: Netlify / Vercel (front-nuevo/dist)
+Backend: Render (modulo-palabras/, ver render.yaml)
+Base de datos: MongoDB Atlas
+Medios: Cloudinary
+
+App mates 
+Tecnologías utilizadas
+HTML5
+CSS3
+JavaScript
+Git y GitHub
+GitHub Pages para el despliegue del proyecto
+
+Para traductores MediaPipe
+
+
+
+ar mirror web: Tecnologías
+Frontend: HTML5, CSS3 (Custom Properties, Flexbox, Grid, Glassmorphism)
+Lógica: JavaScript ES6 Modules, import maps
+IA/Visión: MediaPipe Tasks Vision v0.10.3 (Hand, Face, Pose Landmarker)
+3D: Three.js (escena de fondo + Bioma AR)
+Física: Matter.js (Antigravedad)
+Audio: Web Audio API (Air Piano, Flappy Voice)
+Voz: Web Speech API (Voz a Señas)
+AR: WebXR (Bioma AR)
+ML (futuro): TF.js/ONNX (plan en public/README_ML_TRAINING.md) 

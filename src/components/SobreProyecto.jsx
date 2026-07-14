@@ -2,10 +2,10 @@ import { motion } from 'motion/react'
 import BlurText from './BlurText'
 
 const repos = [
+  { name: 'Traductor de Señas', url: 'https://github.com/Vinculacion-2026/traductor-lengua-senas' },
+  { name: 'App Vocabulario Visual', url: 'https://github.com/Vinculacion-2026/app-vocabulario-visual' },
+  { name: 'MateSeñas EC', url: 'https://github.com/Vinculacion-2026/app-matematicas-gamificada' },
   { name: 'AR Mirror Web', url: 'https://github.com/SAILORSYSTEM/ar_mirror_web' },
-  { name: 'Traductor de Señas', url: 'https://github.com/SAILORSYSTEM/vinculacion-traductor-de-se-as' },
-  { name: 'App Vocabulario', url: 'https://github.com/SAILORSYSTEM/appvocabulario' },
-  { name: 'MateSeñas EC', url: 'https://github.com/SAILORSYSTEM/mate-senas' },
 ]
 
 const teams = [
@@ -196,13 +196,15 @@ export default function SobreProyecto() {
             Este proyecto utiliza librerías y código de código abierto. Agradecemos a sus creadores y cumplimos con las licencias correspondientes:
           </p>
           <div className="attrib-list">
-            <p><strong>React</strong> – MIT License</p>
-            <p><strong>Motion (Framer Motion)</strong> – MIT License</p>
-            <p><strong>Vite</strong> – MIT License</p>
+            <p><strong>MediaPipe Tasks Vision</strong> – Apache License 2.0 (Google AI Edge)</p>
+            <p><strong>Three.js</strong> – MIT License</p>
+            <p><strong>Matter.js</strong> – MIT License</p>
+            <p><strong>MongoDB Atlas</strong> – SSPL (Server Side Public License)</p>
+            <p><strong>Cloudinary</strong> – Servicio comercial con capa gratuita</p>
+            <p><strong>React + Motion + Vite</strong> – MIT License</p>
             <p><strong>React Bits</strong> – MIT + Commons Clause</p>
-            <p><strong>gh-pages</strong> – MIT License</p>
             <p className="attrib-note">
-              Los estudiantes desarrolladores han recibido la instrucción de enviar las fuentes y declaraciones de licencias de las librerías utilizadas en cada proyecto. La lista completa se encuentra disponible en el repositorio correspondiente.
+              Este proyecto es de acceso abierto. Las licencias completas de cada librería y servicio están disponibles en sus respectivos repositorios oficiales y en los repositorios del proyecto.
             </p>
           </div>
         </motion.div>
